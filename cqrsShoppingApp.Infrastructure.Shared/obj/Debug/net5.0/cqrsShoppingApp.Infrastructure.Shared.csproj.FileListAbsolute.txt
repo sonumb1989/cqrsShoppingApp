@@ -1,0 +1,17 @@
+D:\Data\cqrsShoppingApp\cqrsShoppingApp.Infrastructure.Shared\bin\Debug\net5.0\cqrsShoppingApp.Infrastructure.Shared.deps.json
+D:\Data\cqrsShoppingApp\cqrsShoppingApp.Infrastructure.Shared\bin\Debug\net5.0\cqrsShoppingApp.Infrastructure.Shared.dll
+D:\Data\cqrsShoppingApp\cqrsShoppingApp.Infrastructure.Shared\bin\Debug\net5.0\ref\cqrsShoppingApp.Infrastructure.Shared.dll
+D:\Data\cqrsShoppingApp\cqrsShoppingApp.Infrastructure.Shared\bin\Debug\net5.0\cqrsShoppingApp.Infrastructure.Shared.pdb
+D:\Data\cqrsShoppingApp\cqrsShoppingApp.Infrastructure.Shared\bin\Debug\net5.0\cqrsShoppingApp.Application.dll
+D:\Data\cqrsShoppingApp\cqrsShoppingApp.Infrastructure.Shared\bin\Debug\net5.0\cqrsShoppingApp.Application.pdb
+D:\Data\cqrsShoppingApp\cqrsShoppingApp.Infrastructure.Shared\obj\Debug\net5.0\cqrsShoppingApp.Infrastructure.Shared.csprojAssemblyReference.cache
+D:\Data\cqrsShoppingApp\cqrsShoppingApp.Infrastructure.Shared\obj\Debug\net5.0\cqrsShoppingApp.Infrastructure.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\cqrsShoppingApp\cqrsShoppingApp.Infrastructure.Shared\obj\Debug\net5.0\cqrsShoppingApp.Infrastructure.Shared.AssemblyInfoInputs.cache
+D:\Data\cqrsShoppingApp\cqrsShoppingApp.Infrastructure.Shared\obj\Debug\net5.0\cqrsShoppingApp.Infrastructure.Shared.AssemblyInfo.cs
+D:\Data\cqrsShoppingApp\cqrsShoppingApp.Infrastructure.Shared\obj\Debug\net5.0\cqrsShoppingApp.Infrastructure.Shared.csproj.CoreCompileInputs.cache
+D:\Data\cqrsShoppingApp\cqrsShoppingApp.Infrastructure.Shared\obj\Debug\net5.0\cqrsShoppingApp.Infrastructure.Shared.csproj.CopyComplete
+D:\Data\cqrsShoppingApp\cqrsShoppingApp.Infrastructure.Shared\obj\Debug\net5.0\cqrsShoppingApp.Infrastructure.Shared.dll
+D:\Data\cqrsShoppingApp\cqrsShoppingApp.Infrastructure.Shared\obj\Debug\net5.0\ref\cqrsShoppingApp.Infrastructure.Shared.dll
+D:\Data\cqrsShoppingApp\cqrsShoppingApp.Infrastructure.Shared\obj\Debug\net5.0\cqrsShoppingApp.Infrastructure.Shared.pdb
+D:\Data\cqrsShoppingApp\cqrsShoppingApp.Infrastructure.Shared\bin\Debug\net5.0\cqrsShoppingApp.Domain.dll
+D:\Data\cqrsShoppingApp\cqrsShoppingApp.Infrastructure.Shared\bin\Debug\net5.0\cqrsShoppingApp.Domain.pdb

@@ -1,0 +1,12 @@
+D:\Data\cqrsShoppingApp\cqrsShoppingApp.Domain\bin\Debug\net5.0\cqrsShoppingApp.Domain.deps.json
+D:\Data\cqrsShoppingApp\cqrsShoppingApp.Domain\bin\Debug\net5.0\cqrsShoppingApp.Domain.dll
+D:\Data\cqrsShoppingApp\cqrsShoppingApp.Domain\bin\Debug\net5.0\ref\cqrsShoppingApp.Domain.dll
+D:\Data\cqrsShoppingApp\cqrsShoppingApp.Domain\bin\Debug\net5.0\cqrsShoppingApp.Domain.pdb
+D:\Data\cqrsShoppingApp\cqrsShoppingApp.Domain\obj\Debug\net5.0\cqrsShoppingApp.Domain.csprojAssemblyReference.cache
+D:\Data\cqrsShoppingApp\cqrsShoppingApp.Domain\obj\Debug\net5.0\cqrsShoppingApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\cqrsShoppingApp\cqrsShoppingApp.Domain\obj\Debug\net5.0\cqrsShoppingApp.Domain.AssemblyInfoInputs.cache
+D:\Data\cqrsShoppingApp\cqrsShoppingApp.Domain\obj\Debug\net5.0\cqrsShoppingApp.Domain.AssemblyInfo.cs
+D:\Data\cqrsShoppingApp\cqrsShoppingApp.Domain\obj\Debug\net5.0\cqrsShoppingApp.Domain.csproj.CoreCompileInputs.cache
+D:\Data\cqrsShoppingApp\cqrsShoppingApp.Domain\obj\Debug\net5.0\cqrsShoppingApp.Domain.dll
+D:\Data\cqrsShoppingApp\cqrsShoppingApp.Domain\obj\Debug\net5.0\ref\cqrsShoppingApp.Domain.dll
+D:\Data\cqrsShoppingApp\cqrsShoppingApp.Domain\obj\Debug\net5.0\cqrsShoppingApp.Domain.pdb
